@@ -30,7 +30,7 @@ adb push libs/armeabi-v7a/run-as /data/local/tmp/run-as
 [100%] /data/local/tmp/run-as
 adb shell '/data/local/tmp/dcow /data/local/tmp/run-as /system/bin/run-as'
 dcow /data/local/tmp/run-as /system/bin/run-as
-warning: new file size (17944) and file old size (5544) differ
+warning: new file size (5544) and destination file size (17944) differ
 
 [*] size 5544
 [*] mmap 0xb536b000
